@@ -1,0 +1,1 @@
+    fruta = input('Digite um fruta: ')
